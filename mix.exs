@@ -39,7 +39,7 @@ defmodule HtmlSanitizeEx.Mixfile do
   # Type `mix help deps` for more examples and options
   defp deps do
     [
-      {:mochiweb, git: "https://github.com/Sightsource/mochiweb.git"}
+      {:mochiweb, git: "https://github.com/Sightsource/mochiwebOTP26.git"}
     ]
   end
 end
